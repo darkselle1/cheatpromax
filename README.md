@@ -82,7 +82,7 @@ Before you begin, ensure you have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xhoantran/open-interview-coder.git
+   git clone https://github.com/darkselle1/cheatpromax.git
    cd open-interview-coder
    ```
 2. Install the necessary dependencies:
